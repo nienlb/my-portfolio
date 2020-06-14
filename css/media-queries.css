@@ -215,7 +215,14 @@
 
    /* About Section
    -------------------------------------------------------------------- */
-   #about .profile-pic { display: none; }
+   /* #about .three {
+      height: 50px;
+      width: 100%;
+   } */
+   #about .profile-pic { 
+display: none;
+
+   }
    #about .download .button {
       width: 100%;
       text-align: center;
