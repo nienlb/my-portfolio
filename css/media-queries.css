@@ -215,12 +215,13 @@
 
    /* About Section
    -------------------------------------------------------------------- */
-   /* #about .three {
+   #about .three {
       height: 50px;
       width: 100%;
-   } */
+   }
    #about .profile-pic { 
-display: none;
+      height: 40px;
+      width: 40px;
 
    }
    #about .download .button {
