@@ -13,8 +13,8 @@ function Education() {
           <div className="nine columns main-col">
             <div className="row item">
               <div className="twelve columns">
-                <h3>University of Life</h3>
-                <p className="info">Master in Graphic Design <span>•</span> <em className="date">April 2007</em></p>
+                <h3>University of Economics and Laws</h3>
+                <p className="info">Management Information Systems <span>•</span> <em className="date">April 2013</em></p>
                 <p>
                   Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
                   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
