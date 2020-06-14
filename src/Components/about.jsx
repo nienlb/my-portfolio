@@ -5,7 +5,7 @@ function About() {
     <section id="about">
       <div className="row">
         <div className="three columns">
-          <img className="profile-pic" src="images/profile-pic.png" alt="" />
+          <img className="profile-pic" src="images/profile-pic.jpg" alt="" />
         </div>
         <div className="nine columns main-col">
           <h2>About Me</h2>
@@ -14,7 +14,7 @@ function About() {
           <div className="row">
             <div className="columns download">
               <p>
-                <a href="#" className="button"><i className="fa fa-download" />Download My CV</a>
+                <a href="https://1drv.ms/u/s!AnBooq3pd12O20x8Lx3xIIdkiKtp?e=yG1dgw" className="button"><i className="fa fa-download" />Download My CV</a>
               </p>
             </div>
             <div className="columns contact-details">
