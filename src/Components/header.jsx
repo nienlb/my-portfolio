@@ -18,8 +18,8 @@ export default class Header extends Component {
               <li><a className="smoothscroll" href="#education">Education</a></li>
               <li><a className="smoothscroll" href="#experience">Experience</a></li>
               <li><a className="smoothscroll" href="#projects">Projects</a></li>
-              <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
-              <li><a className="smoothscroll" href="#contact">Contact</a></li>
+              <li><a className="smoothscroll" href="#activities">Activities</a></li>
+
             </ul> {/* end #nav */}
           </nav> {/* end #nav-wrap */}
           <div className="row banner">

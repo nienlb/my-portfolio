@@ -1,8 +1,8 @@
 import React from 'react';
-function Call() {
+function Activities() {
   return (
     
-          <section id="call-to-action">
+          <section id="activities">
             <div className="row">
               <div className="two columns header-col">
                 <h1><span>Get Hosting.</span></h1>
@@ -21,4 +21,4 @@ function Call() {
   )
 }
 
-export default Call
+export default Activities

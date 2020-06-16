@@ -11,7 +11,7 @@ function projects() {
             <div className="columns projects-item">
               <div className="item-wrap">
                 <a href="#modal-01" title>
-                  <img alt="" src="/images/projects/coffee.jpg" />
+                  <img alt="" src="images/projects/coffee.jpg" />
                   <div className="overlay">
                     <div className="projects-item-meta">
                       <h5>Coffee</h5>
