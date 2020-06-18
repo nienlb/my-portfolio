@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 
 import React, { Component } from 'react';
 export default class Header extends Component {
@@ -15,9 +16,9 @@ export default class Header extends Component {
             <ul id="nav" className="nav">
               <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
               <li><a className="smoothscroll" href="#about">About</a></li>
-              <li><a className="smoothscroll" href="#education">Education</a></li>
               <li><a className="smoothscroll" href="#experience">Experience</a></li>
               <li><a className="smoothscroll" href="#projects">Projects</a></li>
+              <li><a className="smoothscroll" href="#education">Education</a></li>
               <li><a className="smoothscroll" href="#activities">Activities</a></li>
 
             </ul> {/* end #nav */}

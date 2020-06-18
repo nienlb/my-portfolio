@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 
 function projects() {
@@ -5,17 +6,17 @@ function projects() {
     <section id="projects">
       <div className="row">
         <div className="twelve columns collapsed">
-          <h1>Check Out Some of My Works.</h1>
+          <h1>Check Out Some of My Projects.</h1>
           {/* projects-wrapper */}
           <div id="projects-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
             <div className="columns projects-item">
               <div className="item-wrap">
-                <a href="#modal-01" title>
-                  <img alt="" src="images/projects/coffee.jpg" />
+                <a href="#modal-01" title="Modal 1">
+                  <img alt="" src="https://seydqg.dm.files.1drv.com/y4mwN2VANmczP2wYBuT_JCuuuQTmYlAqZVjvG5YrEl8U81kGx_AVkSJDwMQVhQ0aBbF5wI2xdrBMpB6ex8gt0fPPYUIWhpq5zRY8JUj0uFnmSFhqpYTNpYEfJ3WWvqpN4GzASI3KKv-0KO8lYsINxgFb3egYwNTqFmMtoXn9Py-bhDMNfTE68zaHolonNX-FCP9kShx4vQO5XqwgJ9Z-vm3VQ?width=660&height=660&cropmode=none" />
                   <div className="overlay">
                     <div className="projects-item-meta">
-                      <h5>Coffee</h5>
-                      <p>Illustrration</p>
+                      <h5>BOXSHOP APP</h5>
+                      <p>LOYALT APPLICATION</p>
                     </div>
                   </div>
                   <div className="link-icon"><i className="icon-plus" /></div>
@@ -24,12 +25,12 @@ function projects() {
             </div> {/* item end */}
             <div className="columns projects-item">
               <div className="item-wrap">
-                <a href="#modal-02" title>
-                  <img alt="" src="images/projects/console.jpg" />
+                <a href="#modal-02" title="Modal 1">
+                  <img alt="" src="https://seyeqg.dm.files.1drv.com/y4m6Oz2Xb5NfbPWbuN1iU6s35mkMKEpmRRqGFz7EthwynGPcgeJHoAqB4lr0zTcblC8VMPncYturieaMW6f-GXBK7drmytHeSQw_1kDVa0OnoibWTAR_czieJmODaYti4q-CeB1i6xCcAtnUj-ODuh3zw51IM5muYZys7KXhBzZ9AD1cAdPXlmljpV57npZRd3Hr_CCPszhPfHAPg0pctyOHA?width=660&height=660&cropmode=none" />
                   <div className="overlay">
                     <div className="projects-item-meta">
-                      <h5>Console</h5>
-                      <p>Web Development</p>
+                      <h5>BOXSHOP SCANNER</h5>
+                      <p>MOBILE APPLICATION</p>
                     </div>
                   </div>
                   <div className="link-icon"><i className="icon-plus" /></div>
@@ -38,7 +39,7 @@ function projects() {
             </div> {/* item end */}
             <div className="columns projects-item">
               <div className="item-wrap">
-                <a href="#modal-03" title>
+                <a href="#modal-03" title="Modal 1">
                   <img alt="" src="images/projects/judah.jpg" />
                   <div className="overlay">
                     <div className="projects-item-meta">
@@ -52,7 +53,7 @@ function projects() {
             </div> {/* item end */}
             <div className="columns projects-item">
               <div className="item-wrap">
-                <a href="#modal-04" title>
+                <a href="#modal-04" title="Modal 1">
                   <img alt="" src="images/projects/into-the-light.jpg" />
                   <div className="overlay">
                     <div className="projects-item-meta">
@@ -66,7 +67,7 @@ function projects() {
             </div> {/* item end */}
             <div className="columns projects-item">
               <div className="item-wrap">
-                <a href="#modal-05" title>
+                <a href="#modal-05" title="Modal 1">
                   <img alt="" src="images/projects/farmerboy.jpg" />
                   <div className="overlay">
                     <div className="projects-item-meta">
@@ -80,7 +81,7 @@ function projects() {
             </div> {/* item end */}
             <div className="columns projects-item">
               <div className="item-wrap">
-                <a href="#modal-06" title>
+                <a href="#modal-06" title="Modal 1">
                   <img alt="" src="images/projects/girl.jpg" />
                   <div className="overlay">
                     <div className="projects-item-meta">
@@ -94,7 +95,7 @@ function projects() {
             </div> {/* item end */}
             <div className="columns projects-item">
               <div className="item-wrap">
-                <a href="#modal-07" title>
+                <a href="#modal-07" title="Modal 1">
                   <img alt="" src="images/projects/origami.jpg" />
                   <div className="overlay">
                     <div className="projects-item-meta">
@@ -108,7 +109,7 @@ function projects() {
             </div> {/* item end */}
             <div className="columns projects-item">
               <div className="item-wrap">
-                <a href="#modal-08" title>
+                <a href="#modal-08" title="Modal 1">
                   <img alt="" src="images/projects/retrocam.jpg" />
                   <div className="overlay">
                     <div className="projects-item-meta">
@@ -135,7 +136,7 @@ function projects() {
             <a href="http://www.behance.net">Details</a>
             <a className="popup-modal-dismiss">Close</a>
           </div>
-        </div>{/* modal-01 End */}
+        </div>
         <div id="modal-02" className="popup-modal mfp-hide">
           <img className="scale-with-grid" src="images/projects/modals/m-console.jpg" alt="" />
           <div className="description-box">

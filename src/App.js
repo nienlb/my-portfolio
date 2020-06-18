@@ -1,12 +1,12 @@
 import React from 'react';
 import About from './Components/about.jsx'
-import Header from './Components/header'
-import Education from './Components/education'
-import Experience from './Components/experience'
-import Skill from './Components/skill'
-import Projects from './Components/projects'
-import Activities from './Components/activities'
-import './App.css'
+import Header from './Components/header.jsx'
+import Education from './Components/education.jsx'
+import Experience from './Components/experience.jsx'
+import Skill from './Components/skill.jsx'
+import Projects from './Components/projects.jsx'
+import Activities from './Components/activities.jsx'
+//import './App.css'
 import resumeData from './resumeData';
 
 function App() {
@@ -14,11 +14,11 @@ function App() {
     <div className="App">
       <Header resumeData={resumeData}/>
       <About />
-      <Education />
       <Experience />
-      <Skill />
-      <Projects />
       <Activities />
+      <Skill />
+      <Education />
+      <Projects />
 
     </div>
   );
