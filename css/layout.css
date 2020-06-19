@@ -659,6 +659,12 @@ activities .button {
 	color: #D8D8D8;
 }
 
+#activities #mode {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+
 /* ------------------------------------------------------------------
 /* g. Testimonials
 /* ------------------------------------------------------------------ */
