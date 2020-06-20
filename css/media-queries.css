@@ -62,6 +62,15 @@
    #education h1 { font: 16px/24px 'opensans-bold', sans-serif; }
    #education .main-col { padding-right: 5%; }   
 
+   /* Experience Section
+   ------------------------------------------------------------*/
+   #experience h1 { font: 16px/24px 'opensans-bold', sans-serif; }
+   #experience .header-col h1:before {
+      font-size: 66px;
+      line-height: 66px;
+   }
+   #experience .main-col { padding-right: 30px; }
+
    /* Testimonials Section
    ------------------------------------------------------------------- */
    #testimonials .header-col h1:before {
@@ -231,6 +240,18 @@
    }
    #about .main-col { padding-right: 30px; }
 
+   /* Experience Section
+   ------------------------------------------------------------*/
+   #experience h1 { font: 16px/24px 'opensans-bold', sans-serif; }
+   #experience .header-col h1:before {
+      font-size: 66px;
+      line-height: 66px;
+   }
+   #experience .main-col { padding-right: 30px; }
+
+   #experience .nine {
+      width: 100%;
+   }
 
    /* Education Section
    --------------------------------------------------------------------- */
