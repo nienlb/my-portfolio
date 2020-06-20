@@ -252,6 +252,23 @@
    #experience .nine {
       width: 100%;
    }
+ 
+   /* Projects Section
+   --------------------------------------------------------------------- */
+   
+   #projects .header-col{
+      padding-top: 0;
+      margin-bottom: 48px;
+      text-align: center;
+   }
+
+   #projects .main-col{
+      padding-right: 30px;
+   }
+
+   #projects-wrapper .columns { margin-bottom: 40px; }
+   .popup-modal {	max-width: 85%; }
+
 
    /* Education Section
    --------------------------------------------------------------------- */
@@ -279,13 +296,6 @@
    #call-to-action h1 span { display: block; }
    #call-to-action .header-col h1:before { content: none; }
    #call-to-action p { font-size: 15px; }
-
-
-   /* Projects Section
-   /* ----------------------------------------------------------------- */
-   #projects-wrapper .columns { margin-bottom: 40px; }
-   .popup-modal {	max-width: 85%; }
-
 
    /* Testimonials Section
    ----------------------------------------------------------------------- */
