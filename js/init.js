@@ -99,9 +99,11 @@
 
 	});
 
-   $('#skill').focus(function() {
-      $('.skills').addClass('ani')
-   });
+   $(window).on('scroll', function() {    
+      var scroll = $(window).scrollTop();    
+      if (scroll >= 3542) {
+         $(".skills").addClass("ani") 
+  }});
 
 /*----------------------------------------------------*/
 /*	Modal Popup
