@@ -225,13 +225,14 @@
    /* About Section
    -------------------------------------------------------------------- */
    #about .three {
-      height: 50px;
+      text-align: center;
+      height: 120px;
       width: 100%;
+      margin-bottom: 60px;
    }
    #about .profile-pic { 
-      height: 40px;
-      width: 40px;
-
+      height: 120px;
+      width: 120px;
    }
    #about .download .button {
       width: 100%;
