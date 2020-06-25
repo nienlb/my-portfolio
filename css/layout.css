@@ -276,6 +276,7 @@ ul#nav li.current a { color: #A70100; }
 
 }
 #projects #mode .source {
+   border-left: #c6c7c7 3px solid ;
 }
 #projects #mode .source p{
    margin-bottom: 10px;
